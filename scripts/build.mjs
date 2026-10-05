@@ -13,13 +13,13 @@ import { mkdir, writeFile } from "node:fs/promises";
 const PALETTES = {
   light: {
     bg: "#faf8f5", bgSubtle: "#f0ebe3", fg: "#1a1714", muted: "#5a4e42", faint: "#766859",
-    accent: "#b04619", accentDim: "rgba(176,70,25,0.12)", accentContainer: "#f4ddd1",
+    accent: "#b04619", accentDim: "rgba(176,70,25,0.12)", accentContainer: "#f7e5dc",
     border: "#e2dbd2", borderStrong: "#c9bfb4", hairline: "#e2dbd2", grid: "rgba(176,70,25,0.07)",
     edge: "#e2dbd2",
   },
   dark: {
     bg: "#1a1714", bgSubtle: "#2a2420", fg: "#faf8f5", muted: "#b3a597", faint: "#9a8c7e",
-    accent: "#e8743f", accentDim: "rgba(232,116,63,0.14)", accentContainer: "#4a2a1b",
+    accent: "#e8743f", accentDim: "rgba(232,116,63,0.14)", accentContainer: "#422518",
     border: "#342c26", borderStrong: "#4a3f36", hairline: "#4a3f36", grid: "rgba(232,116,63,0.08)",
     // A card's outline on GitHub's own dark page, where the site's border melts into it.
     edge: "#4a3f36",
