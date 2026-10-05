@@ -12,7 +12,7 @@ Platform engineer at **UniCredit**, in Milan. Seven years of cloud infrastructur
 #### Now
 
 - Keeping 200+ applications alive on GKE, with a bill that still makes sense
-- Building [(Another) Habit Tracker](https://github.com/eduarddragu/another-habit-tracker): an offline Android app that picks what I study, nags until it's done and blocks my doomscrolling
+- Building [(Another) Habit Tracker](https://github.com/eduarddragu/another-habit-tracker): an offline Android app that picks what I study, nags until it's done, keeps my reading list and blocks my doomscrolling
 - Training for the next race, and keeping the vibes up!
 
 <br>
