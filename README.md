@@ -2,16 +2,16 @@
   <a href="https://eduarddragu.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-      <img src="assets/header-light.svg" width="100%" alt="Eduard Catalin Dragu. Platform Engineer, Milan, Italy. Vegan. Marathon runner. Occasionally on-call.">
+      <img src="assets/header-light.svg" width="100%" alt="Eduard Catalin Dragu. Senior Site Reliability Engineer, Milan, Italy. Vegan. Marathon runner. Occasionally on-call.">
     </picture>
   </a>
 </p>
 
-Platform engineer at **UniCredit**, in Milan. I've spent seven years on cloud infrastructure, GCP and Azure. Before that I worked in real data centers: vSphere clusters, racks, patching eight thousand machines at a time. Still a bare-metal lover passing as a cloud engineer.
+Senior site reliability engineer at **Docebo**, in Milan. I've spent six years on cloud infrastructure, across AWS, GCP and Azure. Before that I worked in real data centers: vSphere clusters, racks, patching eight thousand machines at a time. Still a bare-metal lover passing as a cloud engineer.
 
 #### Now
 
-- Keeping 200+ applications running on GKE, with a bill that still makes sense
+- Keeping ~40 EKS clusters and their Aurora databases out of the incident channel
 - Building [(Another) Habit Tracker](https://github.com/eduarddragu/another-habit-tracker): it picks what I study, nags me until it's done and blocks my doomscrolling
 - Building [(Another) Reminder App](https://github.com/eduarddragu/another-reminder-app): it tells me what to buy when I'm actually at the shop
 - Training for the next race, and keeping the vibes up!

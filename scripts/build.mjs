@@ -123,7 +123,7 @@ function header(p, t) {
 <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="15.5" fill="none" stroke="${p.edge}"/>
 <text class="name" x="500" y="126" text-anchor="middle">${t("display", "Eduard ")}<tspan class="em">${t("displayItalic", "Catalin")}</tspan>${t("display", " Dragu")}</text>
 <g class="m-loc"><text class="loc" x="500" y="168" text-anchor="middle">${t("mono", "MILAN, ITALY")}</text></g>
-<g class="m-role"><text class="role" x="500" y="194" text-anchor="middle">${t("mono", "PLATFORM ENGINEER")}</text></g>
+<g class="m-role"><text class="role" x="500" y="194" text-anchor="middle">${t("mono", "SENIOR SITE RELIABILITY ENGINEER")}</text></g>
 <g class="m-tag"><text class="tag" x="500" y="240" text-anchor="middle">${t("display", "Vegan. Marathon runner. Occasionally on-call.")}</text></g>
 <g class="divider">
   <path d="M436 278H490M510 278H564" stroke="${p.hairline}" stroke-width="1"/>
